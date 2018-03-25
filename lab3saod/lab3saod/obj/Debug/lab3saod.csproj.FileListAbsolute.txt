@@ -1,0 +1,10 @@
+D:\ir\lab3saod\lab3saod\bin\Debug\lab3saod.exe.config
+D:\ir\lab3saod\lab3saod\bin\Debug\lab3saod.exe
+D:\ir\lab3saod\lab3saod\bin\Debug\lab3saod.pdb
+D:\ir\lab3saod\lab3saod\obj\Debug\lab3saod.csprojResolveAssemblyReference.cache
+D:\ir\lab3saod\lab3saod\obj\Debug\lab3saod.Form1.resources
+D:\ir\lab3saod\lab3saod\obj\Debug\lab3saod.Properties.Resources.resources
+D:\ir\lab3saod\lab3saod\obj\Debug\lab3saod.csproj.GenerateResource.Cache
+D:\ir\lab3saod\lab3saod\obj\Debug\lab3saod.csproj.CoreCompileInputs.cache
+D:\ir\lab3saod\lab3saod\obj\Debug\lab3saod.exe
+D:\ir\lab3saod\lab3saod\obj\Debug\lab3saod.pdb
